@@ -1,5 +1,4 @@
 <div align="center">
-    <img align="right" height="270em" src="./assets/caidevOficial_Image.png"/><br>
     <div align='left'>
         <h1>Hi there👋!</h1>
 
