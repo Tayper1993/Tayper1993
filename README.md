@@ -2,8 +2,6 @@
     <div align='left'>
         <h1>Hi there👋!</h1>
 
----
-
 I`am Backend Developer!
 
 ---
